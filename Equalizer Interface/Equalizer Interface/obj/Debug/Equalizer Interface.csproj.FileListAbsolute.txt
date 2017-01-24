@@ -1,0 +1,29 @@
+c:\users\valtteri\documents\visual studio 2015\Projects\Equalizer Interface\Equalizer Interface\bin\Debug\Equalizer Interface.exe.config
+c:\users\valtteri\documents\visual studio 2015\Projects\Equalizer Interface\Equalizer Interface\bin\Debug\Equalizer Interface.exe
+c:\users\valtteri\documents\visual studio 2015\Projects\Equalizer Interface\Equalizer Interface\bin\Debug\Equalizer Interface.pdb
+c:\users\valtteri\documents\visual studio 2015\Projects\Equalizer Interface\Equalizer Interface\obj\Debug\Equalizer Interface.csprojResolveAssemblyReference.cache
+c:\users\valtteri\documents\visual studio 2015\Projects\Equalizer Interface\Equalizer Interface\obj\Debug\Equalizer_Interface.Properties.Resources.resources
+c:\users\valtteri\documents\visual studio 2015\Projects\Equalizer Interface\Equalizer Interface\obj\Debug\Equalizer Interface.csproj.GenerateResource.Cache
+c:\users\valtteri\documents\visual studio 2015\Projects\Equalizer Interface\Equalizer Interface\obj\Debug\Equalizer Interface.exe
+c:\users\valtteri\documents\visual studio 2015\Projects\Equalizer Interface\Equalizer Interface\obj\Debug\Equalizer Interface.pdb
+C:\Users\Valtteri\documents\visual studio 2015\Projects\Equalizer Interface\Equalizer Interface\obj\Debug\Equalizer_Interface.Equalizer.resources
+C:\Users\Valtteri\documents\visual studio 2015\Projects\Equalizer Interface\Equalizer Interface\bin\Debug\Equalizer Interface.exe.manifest
+C:\Users\Valtteri\documents\visual studio 2015\Projects\Equalizer Interface\Equalizer Interface\bin\Debug\Equalizer Interface.application
+C:\Users\Valtteri\documents\visual studio 2015\Projects\Equalizer Interface\Equalizer Interface\obj\Debug\Equalizer Interface.exe.manifest
+C:\Users\Valtteri\documents\visual studio 2015\Projects\Equalizer Interface\Equalizer Interface\obj\Debug\Equalizer Interface.application
+D:\Google Drive\VisualStudio 2015\Projects\Equalizer Interface\Equalizer Interface\bin\Debug\Equalizer Interface.exe.config
+D:\Google Drive\VisualStudio 2015\Projects\Equalizer Interface\Equalizer Interface\obj\Debug\Equalizer Interface.exe
+D:\Google Drive\VisualStudio 2015\Projects\Equalizer Interface\Equalizer Interface\obj\Debug\Equalizer Interface.pdb
+D:\Google Drive\VisualStudio 2015\Projects\Equalizer Interface\Equalizer Interface\bin\Debug\Equalizer Interface.exe.manifest
+D:\Google Drive\VisualStudio 2015\Projects\Equalizer Interface\Equalizer Interface\bin\Debug\Equalizer Interface.application
+D:\Google Drive\VisualStudio 2015\Projects\Equalizer Interface\Equalizer Interface\bin\Debug\Equalizer Interface.exe
+D:\Google Drive\VisualStudio 2015\Projects\Equalizer Interface\Equalizer Interface\bin\Debug\Equalizer Interface.pdb
+D:\Google Drive\VisualStudio 2015\Projects\Equalizer Interface\Equalizer Interface\obj\Debug\Equalizer Interface.csprojResolveAssemblyReference.cache
+D:\Google Drive\VisualStudio 2015\Projects\Equalizer Interface\Equalizer Interface\obj\Debug\Equalizer_Interface.Equalizer.resources
+D:\Google Drive\VisualStudio 2015\Projects\Equalizer Interface\Equalizer Interface\obj\Debug\Equalizer_Interface.Properties.Resources.resources
+D:\Google Drive\VisualStudio 2015\Projects\Equalizer Interface\Equalizer Interface\obj\Debug\Equalizer Interface.csproj.GenerateResource.Cache
+D:\Google Drive\VisualStudio 2015\Projects\Equalizer Interface\Equalizer Interface\obj\Debug\Equalizer Interface.exe.manifest
+D:\Google Drive\VisualStudio 2015\Projects\Equalizer Interface\Equalizer Interface\obj\Debug\Equalizer Interface.application
+C:\Users\valtt\OneDrive\Google Drive BACKUP\VisualStudio 2015\Projects\Equalizer Interface\Equalizer Interface\bin\Debug\Equalizer Interface.exe.config
+C:\Users\valtt\OneDrive\Google Drive BACKUP\VisualStudio 2015\Projects\Equalizer Interface\Equalizer Interface\obj\Debug\Equalizer Interface.exe
+C:\Users\valtt\OneDrive\Google Drive BACKUP\VisualStudio 2015\Projects\Equalizer Interface\Equalizer Interface\obj\Debug\Equalizer Interface.pdb
